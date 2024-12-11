@@ -36,7 +36,7 @@ console.log(myArray)
 
 // Convertir de array a set
 
-myset = new Set(myArray)
+mySet = new Set(myArray)
 console.log(mySet)
 
 //la funcion Set no admite duplicar elementos
